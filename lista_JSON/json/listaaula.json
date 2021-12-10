@@ -1,1 +1,0 @@
-[{"id":1,"intrutor":{"salario":92500.0,"id":0,"nome":"MARCELO","cpf":"123FS123"},"aluno":{"endereco":{"rua":"Rua","bairro":"Bairro","cidade":"Cidade"},"id":3,"nome":"Gina","cpf":"159951"},"veiculo":{"id":1,"modelo":"Modelo Q","placa":"AWS-1234","cat":"A"},"dia":"12/12/2021","inicio":"20:00:00","fim":"21:00:00"}]
